@@ -1,4 +1,4 @@
-🚀 SaaS / Tech Startup Landing Page
+SaaS / Tech Startup Landing Page
 
 A premium, modern, high-conversion SaaS landing page inspired by Stripe, Vercel, Linear, and Notion.
 Built with React, React Bootstrap, and Framer Motion, this project demonstrates professional frontend development with a focus on UI/UX, responsiveness, and interactive animations.
@@ -92,25 +92,6 @@ saas-landing-page/
 ├── README.md
 └── LICENSE
 
-🚀 Getting Started
-1️⃣ Clone the repository
-git clone https://github.com/mubashirdawood/saas-landing-page.git
-cd saas-landing-page
-
-2️⃣ Install dependencies
-npm install
-
-3️⃣ Run development server
-npm run dev
-
-
-Visit http://localhost:5173 to see the project live locally.
-
-🌐 Live Demo
-
-Deployed on Vercel (add your live link):
-
-https://your-saas-project.vercel.app
 
 🧠 AI-Assisted Development
 
@@ -119,58 +100,7 @@ GitHub Copilot was used to enhance productivity:
 Generate boilerplate components
 
 Suggest code structure
-
 Speed up repetitive tasks
 
-⚠️ AI was used responsibly. All UI decisions, animations, and frontend logic were implemented and customized manually.
+>>>deployed on vercel<<<<
 
-📸 Screenshots
-
-Hero Section
-
-Features & Pricing
-
-Dashboard Preview
-
-Testimonials Carousel
-
-Dark / Light Mode
-
-(Add images/screenshots from your project here)
-
-🧩 Future Improvements
-
-Interactive pricing calculator
-
-Authentication pages (login/register UI)
-
-CMS / API integration
-
-Form backend (email / database)
-
-Advanced Framer Motion animations
-
-SEO optimization
-
-👨‍💻 Author
-
-Mubashir Dawood – Software Engineering Student & Frontend Developer
-
-GitHub: https://github.com/mubashirdawood
-
-LinkedIn: https://linkedin.com/in/mubashir-dawood
-
-📄 License
-
-This project is licensed under the MIT License – see the LICENSE
- file for details.
-
-⭐ Support
-
-If you like this project:
-
-⭐ Star the repository
-
-🍴 Fork it
-
-💬 Share feedback
