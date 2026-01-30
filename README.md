@@ -1,25 +1,3 @@
-<<<<<<< HEAD
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/temp/1
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-=======
 🚀 SaaS / Tech Startup Landing Page
 
 A premium, modern, high-conversion SaaS landing page inspired by Stripe, Vercel, Linear, and Notion.
@@ -82,18 +60,24 @@ Clean component-based architecture and reusable UI components
 📁 Project Structure
 saas-landing-page/
 ├── src/
+
 │   ├── components/
+
 │   │   ├── Navbar.jsx
+
 │   │   ├── Hero.jsx
+
 │   │   ├── Features.jsx
 │   │   ├── Pricing.jsx
 │   │   ├── Testimonials.jsx
 │   │   ├── DashboardPreview.jsx
 │   │   └── Footer.jsx
+
 │   ├── pages/
 │   │   ├── Home.jsx
 │   │   └── Contact.jsx
 │   ├── data/
+
 │   │   ├── features.json
 │   │   ├── pricing.json
 │   │   └── testimonials.json
@@ -101,9 +85,92 @@ saas-landing-page/
 │   └── styles/
 │       └── index.css
 ├── public/
+
 ├── package.json
 ├── package-lock.json
 ├── .gitignore
 ├── README.md
 └── LICENSE
->>>>>>> e36692fe76dfc4ed5e5426437da5c6354818380e
+
+🚀 Getting Started
+1️⃣ Clone the repository
+git clone https://github.com/mubashirdawood/saas-landing-page.git
+cd saas-landing-page
+
+2️⃣ Install dependencies
+npm install
+
+3️⃣ Run development server
+npm run dev
+
+
+Visit http://localhost:5173 to see the project live locally.
+
+🌐 Live Demo
+
+Deployed on Vercel (add your live link):
+
+https://your-saas-project.vercel.app
+
+🧠 AI-Assisted Development
+
+GitHub Copilot was used to enhance productivity:
+
+Generate boilerplate components
+
+Suggest code structure
+
+Speed up repetitive tasks
+
+⚠️ AI was used responsibly. All UI decisions, animations, and frontend logic were implemented and customized manually.
+
+📸 Screenshots
+
+Hero Section
+
+Features & Pricing
+
+Dashboard Preview
+
+Testimonials Carousel
+
+Dark / Light Mode
+
+(Add images/screenshots from your project here)
+
+🧩 Future Improvements
+
+Interactive pricing calculator
+
+Authentication pages (login/register UI)
+
+CMS / API integration
+
+Form backend (email / database)
+
+Advanced Framer Motion animations
+
+SEO optimization
+
+👨‍💻 Author
+
+Mubashir Dawood – Software Engineering Student & Frontend Developer
+
+GitHub: https://github.com/mubashirdawood
+
+LinkedIn: https://linkedin.com/in/mubashir-dawood
+
+📄 License
+
+This project is licensed under the MIT License – see the LICENSE
+ file for details.
+
+⭐ Support
+
+If you like this project:
+
+⭐ Star the repository
+
+🍴 Fork it
+
+💬 Share feedback
